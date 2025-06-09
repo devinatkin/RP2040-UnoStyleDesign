@@ -1,0 +1,8 @@
+4 Layer 1mm board
+JLC7628
+
+Replace A2541HWV-2P -> C124375 - 2 pin male
+Replace RN731ETTP2000B25 -> C25123
+Replace Crystal --> C9002
+Replace 6 pin header --> C2832269
+Replace L2 --> C36414
